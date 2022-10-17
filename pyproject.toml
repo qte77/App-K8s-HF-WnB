@@ -27,7 +27,7 @@ scipy = "*"
 sklearn = "*"
 torch = "==1.11.*"
 transformers = "==4.19.*"
-wandb = "==0.12.*"
+wandb = "==0.13.*"
 omegaconf = "*"
 pydantic = "*"
 # https://download.pytorch.org/whl/cu113/torch-1.11.0%2Bcu113-cp38-cp38-linux_x86_64.whl
