@@ -20,7 +20,7 @@ keywords= ["ML", "Docker", "Kubernetes", "Hugging Face", "Weights&Biases"]
 [tool.poetry.dependencies]
 python = ">=3.9"
 datasets = "==2.3.*"
-numpy = "==1.21.*"
+numpy = "==1.24.*"
 protobuf = "==3.20.*"
 pyyaml = "==6.0.*"
 scipy = "*"
