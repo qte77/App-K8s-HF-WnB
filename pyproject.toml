@@ -21,7 +21,7 @@ keywords= ["ML", "Docker", "Kubernetes", "Hugging Face", "Weights&Biases"]
 python = ">=3.9"
 datasets = "==2.3.*"
 numpy = "==1.21.*"
-protobuf = "==3.20.*"
+protobuf = "==4.22.*"
 pyyaml = "==6.0.*"
 scipy = "*"
 sklearn = "*"
